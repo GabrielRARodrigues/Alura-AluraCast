@@ -19,7 +19,7 @@
   }
   .secao__cartoes {
     row-gap: 0.5rem;
-    --gap-culuna: 1rem;
+    --gap-coluna: 1rem;
   }
   .secao-horizontal .cartao {
     column-gap: 0.5rem;
